@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PickerProblem.MAUI", "PickerProblem.MAUI\PickerProblem.MAUI.csproj", "{9031DBE1-7892-4A98-A9FF-EC1A6107AC91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9031DBE1-7892-4A98-A9FF-EC1A6107AC91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9031DBE1-7892-4A98-A9FF-EC1A6107AC91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9031DBE1-7892-4A98-A9FF-EC1A6107AC91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9031DBE1-7892-4A98-A9FF-EC1A6107AC91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F7389A7-FC1C-4DDE-8A5A-7E8F12087D0A}
+	EndGlobalSection
+EndGlobal
