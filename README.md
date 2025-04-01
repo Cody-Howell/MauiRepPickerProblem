@@ -1,4 +1,4 @@
-# MAUI Reproducability: Picker Problem
+# MAUI Reproducibility: Picker Problem
 When using a picker and assigning it to a CollectionView-ed picker, it seems to remove values that are Observable. 
 
 You can validate that it works correctly by moving the comment in the XAML page within the CollectionView from the Entry field to the Picker
