@@ -81,6 +81,18 @@ public partial class MainPageViewModel : ObservableObject {
 }
 ```
 
+### Item.cs
+```csharp
+public partial class Item : ObservableObject {
+    [ObservableProperty]
+    private string tag;
+
+    public Item(string t) {
+        tag = t;
+    }
+}
+```
+
 ## CSPROJ file (condensed)
 This is left basically completely default except for the CommunityToolkit.Mvvm package, where we added ObservableObject, ObservableProperty, 
 and RelayCommand attributes. 
